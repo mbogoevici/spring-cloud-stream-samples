@@ -14,7 +14,7 @@
 	<packaging>pom</packaging>
 	<modules>
 		<module>multiple-writer</module>
-		<module>module-consumer</module>
+		<module>module-web-writer</module>
 	</modules>
 
 </project>
