@@ -1,0 +1,3 @@
+== Multiple modules
+
+This example illustrates how to embed Spring Cloud Stream components in other applications.
